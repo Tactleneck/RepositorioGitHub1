@@ -7,7 +7,9 @@ public class HolaMundo {
 	}
 	
 	void hola () {
-		System.out.println("Hola Cuarta Version 4 Choque");
+		
+		System.out.println("Andres Modificada despues de conflicto cuarta version");
+	
 	}
 
 	public static void main(String[] args) {
